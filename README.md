@@ -15,8 +15,8 @@ A final year AI-based project for early detection of plant diseases using CNN.
 
 ## 📦 How to Run
 1. Clone the repo
-2. Install requirements: `pip install -r requirements.txt`
-3. Run: `python app.py`
+2. Install requirements: `Visual Studio`
+3. Run: `Rum CTRL+F5`
 
 
 
